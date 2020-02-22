@@ -4,5 +4,5 @@
 # or whitespace (' ').
 
 
-class EmailParser 
+class EmailAdressParser
 end
